@@ -1,0 +1,18 @@
+:root{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title{
+    color: gray;
+}
+
+.main-subtitle{
+    color: blue;
+}
+
+.action-button{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 5px;
+}
