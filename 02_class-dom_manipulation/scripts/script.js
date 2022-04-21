@@ -13,6 +13,7 @@ userInput.addEventListener("change", (event) => {
 
   // 3. make it appear in the DOM by choosing a parent and inserting it into it
   todoMainList.appendChild(newTodoElement); // .insertBefore()
+  event.target.value = "";
 });
 
 function handleClearAll(event) {
