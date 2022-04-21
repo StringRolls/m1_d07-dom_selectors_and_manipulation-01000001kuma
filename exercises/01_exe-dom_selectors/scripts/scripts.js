@@ -1,20 +1,22 @@
 // 1: Get the node with the  main title
 
-// ... your code here
+
+document.querySelector("#container h1"); // ... your code here
+
 
 // => <h1>Fruits and veggies</h1>
 // ----------------------------------------------
 
 // 2: Get the main title text
 
-// ... your code here
+document.innerText(#container h1");
 
 // => Fruits and veggies
 // ----------------------------------------------
 
 // 3: Get all the nodes with the fruit items
 
-// ... your code here
+    // ... your code here
 
 // => HTMLCollection(4) [li.fruit-item, li.fruit-item, li.fruit-item, li.fruit-item]
 // ----------------------------------------------
